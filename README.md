@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
 ## Math
 |  |
