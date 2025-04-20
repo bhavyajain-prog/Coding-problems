@@ -28,9 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0002-add-two-numbers) |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
 ## Greedy
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
