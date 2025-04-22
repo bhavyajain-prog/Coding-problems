@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0002-add-two-numbers) |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2249-count-the-hidden-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
