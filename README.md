@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/bhavyajain-prog/Coding-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2249-count-the-hidden-sequences](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0002-add-two-numbers) |
 | [0797-rabbits-in-forest](https://github.com/bhavyajain-prog/Coding-problems/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/bhavyajain-prog/Coding-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/bhavyajain-prog/Coding-problems/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/bhavyajain-prog/Coding-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
